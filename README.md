@@ -52,7 +52,7 @@
 
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/yourusername/todo-api.git
+   git clone https://github.com/removespread/todo-api.git
    cd todo-api
    ```
 
